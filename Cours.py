@@ -4,6 +4,7 @@ import mod_cours.annee_bissextile
 import mod_cours.public_ip_address
 
 # Propositions des fonctions disponibles
+print("BIENVENUE\n")
 print("1 = Utilisation premiéres conditions")
 print("2 = Fonction Table de Multiplication")
 print("3 = Fonction Année Bissextile")
